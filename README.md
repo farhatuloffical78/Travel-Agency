@@ -34,25 +34,25 @@ TravelBloom is a platform where users can explore various travel packages, view 
 Here are the screenshots for different routes of the application:
 
 ### Home Page
-![Home Page](../travel-project/src/assets/homepage.png)
+![Home Page](./src/assets/homepage.png)
 
 ### Login Page
-![Login Page](../travel-project/src/assets/register.png)
+![Login Page](./travel-project/src/assets/register.png)
 
 ### Register Page
-![Register Page](../travel-project/src/assets/login.png)
+![Register Page](./travel-project/src/assets/login.png)
 
 ### All tour Package
-![ALL tour Pakage Page](../travel-project/src/assets/allpakage.png)
+![ALL tour Pakage Page](./travel-project/src/assets/allpakage.png)
 
 ### All tour Package Details Page
-![All tour Package Details Page](../travel-project/src/assets/details.png)
+![All tour Package Details Page](./travel-project/src/assets/details.png)
 
 ### Umrah Pakage
-![Umrah Pakage](../travel-project/src/assets/umrah.png)
+![Umrah Pakage](./travel-project/src/assets/umrah.png)
 
 ### Umrah Package Details Page
-![Umrah Package Details Page](../travel-project/src/assets/detailsofumrah.png)
+![Umrah Package Details Page](./travel-project/src/assets/detailsofumrah.png)
 
 
 ## Live Link
@@ -63,7 +63,7 @@ Visit the live project at [TravelBloom Live Link](https://travelproject-fee52.we
 
 Follow these steps to run the project on your local machine:
 
-- **Clone the repository**: git clone https://github.com/your-username/TravelBloom.git
+- **Clone the repository**: git clone https://github.com/farhatuloffical78/Travel-Agency.git
 - **Navigate to the project directory**: Clear steps to move into the folder.
 - **Install dependencies**: `npm install` for installing project dependencies.
 - **Set up Firebase**: Added step to configure Firebase with the correct details.
