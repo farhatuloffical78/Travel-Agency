@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "image": "https://img.freepik.com/premium-photo/beautiful-kaaba-sharif-storm-makka-madina-muslim-ramdan-background-design_1216335-5919.jpg",
+        "location": "Makkah and Madinah",
+        "description": "Experience a spiritual journey with a 5-star stay near Haram.",
+        "price": 156200,
+        "includes": ["5-Star Hotel", "Meals", "Haram View Rooms", "Transport Between Cities"],
+        "services": ["24/7 Assistance", "Group Leader", "Ziyarat Tours"]
+    },
+    {
+        "id": 2,
+        "image": "https://static.vecteezy.com/system/resources/thumbnails/041/853/844/small/ai-generated-the-mecca-in-saudi-arabia-photo.jpg",
+        "location": "Makkah and Madinah",
+        "description": "Affordable 3-star package with group travel and guided Ziyarat.",
+        "price": 117700,
+        "includes": ["3-Star Accommodation", "Daily Meals", "Local Transport", "Airport Transfers"],
+        "services": ["Guided Tours", "Umrah Training", "Round-the-Clock Support", "Emergency Assistance"]
+    },
+    {
+        "id": 3,
+        "image": "https://t3.ftcdn.net/jpg/09/23/01/54/360_F_923015420_U0jKy1ksAgmRxlRuxsMNsc56VFw9udOW.jpg",
+        "location": "Makkah and Madinah",
+        "description": "Luxury private Umrah package for families with tailored services for a truly exclusive experience.",
+        "price": 321000,
+        "includes": ["5-Star Hotels", "Private Transport", "Daily Meals", "VIP Lounge Access"],
+        "services": ["Private Guide", "VIP Lounge Access", "Customized Itinerary", "Exclusive Family Activities"]
+    },
+    {
+        "id": 4,
+        "image": "https://t3.ftcdn.net/jpg/09/37/97/54/360_F_937975438_QIenWGG1X3NTJXGluu02VWAkQrxWbusl.jpg",
+        "location": "Makkah and Madinah",
+        "description": "Group Umrah package with budget-friendly options, designed to offer the spiritual experience of Umrah.",
+        "price": 96300,
+        "includes": ["Shared Accommodation", "Group Transport", "Basic Meals", "Ziyarat Assistance"],
+        "services": ["Group Leader", "Guided Ziyarat", "24/7 Support", "Affordable Visa Processing"]
+    },
+    {
+        "id": 5,
+        "image": "https://makkah-madinah.accor.com/wp-content/uploads/2024/08/mosque-makkah.jpg",
+        "location": "Makkah and Madinah",
+        "description": "Deluxe package with premium hotels and exclusive services.",
+        "price": 267500,
+        "includes": ["5-Star Hotels", "Daily Meals", "Haram View"],
+        "services": ["Dedicated Support", "Ziyarat with Scholar", "Priority Check-In"]
+    },
+    {
+        "id": 6,
+        "image": "https://png.pngtree.com/thumb_back/fh260/background/20240501/pngtree-makka-kaaba-image_15723428.jpg",
+        "location": "Makkah and Madinah",
+        "description": "Weekend Umrah package for a quick spiritual retreat.",
+        "price": 85600,
+        "includes": ["2-Night Stay in Makkah", "Meals", "Transport Between Haram"],
+        "services": ["Quick Visa Processing", "Group Guide", "Support Staff"]
+    },
+    {
+        "id": 7,
+        "image": "https://5.imimg.com/data5/AO/MH/RZ/GLADMIN-71798217/selection-217-250x250.png",
+        "location": "Makkah and Madinah",
+        "description": "10-day package for a relaxed and fulfilling Umrah experience.",
+        "price": 181900,
+        "includes": ["4-Star Hotels", "Daily Meals", "Transport Between Makkah and Madinah"],
+        "services": ["Spiritual Lectures", "Ziyarat Tours", "On-Ground Assistance"]
+    },
+    {
+        "id": 8,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqXXXSOwOi_7uo1ngMSjbz23OU7nDoocLF8g3TxWAm1jMzCScB-LX_PYI_vlsI2MF0O60&usqp=CAU",
+        "location": "Makkah and Madinah",
+        "description": "Economy Umrah package with essential amenities.",
+        "price": 80300,
+        "includes": ["Shared Accommodation", "Basic Meals", "Local Transport"],
+        "services": ["Umrah Guidance", "Ziyarat with Group", "Support Services"]
+    },
+    {
+        "id": 9,
+        "image": "https://hajjumrahbd.com/wp-content/uploads/2016/08/Umrah.jpg",
+        "location": "Makkah and Madinah",
+        "description": "Family-friendly package with spacious accommodations.",
+        "price": 214000,
+        "includes": ["4-Star Family Suites", "Meals", "Private Transport"],
+        "services": ["Child-Friendly Activities", "Ziyarat Tours", "Dedicated Support"]
+    },
+    {
+        "id": 10,
+        "image": "https://www.nariatravels.com/uploads/0000/1/2023/03/07/umran-naria-travels-and-tours-600.jpg",
+        "location": "Makkah and Madinah",
+        "description": "Exclusive Ramadan Umrah package with Iftar and Suhoor included.",
+        "price": 267500,
+        "includes": ["Premium Hotels", "Iftar & Suhoor", "Airport Transfers"],
+        "services": ["Taraweeh Arrangements", "Ziyarat with Scholars", "24/7 Assistance"]
+    }
+]

@@ -1,0 +1,120 @@
+[
+    {
+      "id": 1,
+      "image": "https://travelbd.xyz/wp-content/uploads/2024/06/Coxsbazar-1.jpeg",
+      "location": "Cox's Bazar, Bangladesh",
+      "description": "Enjoy the serene beaches of Cox's Bazar with 3 days and 2 nights of luxurious stay.",
+      "price": 22000,
+      "includes": ["Hotel Stay", "Breakfast", "Beach Activities", "Transport"],
+      "services": ["Tour Guide", "Local Sightseeing", "Free WiFi"]
+    },
+    {
+      "id": 2,
+      "image": "https://sundarbantourism.bforest.gov.bd/storage/uploads/2021/12/med-1639027349-Deer_at_sundarban.png",
+      "location": "Sundarbans, Bangladesh",
+      "description": "A thrilling adventure to explore the world's largest mangrove forest.",
+      "price": 16500,
+      "includes": ["Boat Cruise", "Meals", "Jungle Safari", "Guide"],
+      "services": ["Photography Assistance", "Wildlife Tours", "Local Snacks"]
+    },
+    {
+      "id": 3,
+      "image": "https://ttg.com.bd/uploads/tours/plans/204_36376273530_3c9a0335f5_b-copyjpg.jpg",
+      "location": "Bandarban, Bangladesh",
+      "description": "Discover the scenic beauty of Bandarban's hills and waterfalls.",
+      "price": 12000,
+      "includes": ["Transport", "Hotel Stay", "Meals", "Guide"],
+      "services": ["Trekking Tours", "Waterfall Visit", "Cultural Programs"]
+    },
+    {
+      "id": 4,
+      "image": "https://images.travelandleisureasia.com/wp-content/uploads/sites/2/2021/03/24121602/8-15.jpg",
+      "location": "Darjeeling, India",
+      "description": "Experience the charm of Darjeeling with breathtaking mountain views.",
+      "price": 33000,
+      "includes": ["Hotel Stay", "Transport", "Meals", "Sightseeing"],
+      "services": ["Toy Train Ride", "Tea Garden Visit", "Local Shopping Assistance"]
+    },
+    {
+      "id": 5,
+      "image": "https://www.andbeyond.com/wp-content/uploads/sites/5/maldives-six-senses-laamu4.jpg",
+      "location": "Maldives",
+      "description": "Relax on pristine beaches and enjoy luxurious water villas in the Maldives.",
+      "price": 176000,
+      "includes": ["Water Villa Stay", "Meals", "Speedboat Transfers"],
+      "services": ["Snorkeling", "Private Beach Access", "Spa Services"]
+    },
+    {
+      "id": 6,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTkxVYKyABUZYNiVYIg5SzjsbGXhjG8_qCPvWqNfK7Qp17ju1tz8rQX9IE4tlw41QdO0c&usqp=CAU",
+      "location": "Paris, France",
+      "description": "A romantic getaway to the city of lights and love, Paris.",
+      "price": 275000,
+      "includes": ["Hotel Stay", "Meals", "City Tours", "Airport Transfers"],
+      "services": ["Eiffel Tower Tickets", "Cruise on the Seine", "Local Guide"]
+    },
+    {
+      "id": 7,
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-10/21/full/1729486826-6805.jpg",
+      "location": "Dubai, UAE",
+      "description": "Discover the glamour of Dubai with iconic landmarks and desert safaris.",
+      "price": 110000,
+      "includes": ["Hotel Stay", "Meals", "Sightseeing Tours"],
+      "services": ["Desert Safari", "Burj Khalifa Tickets", "Luxury Transport"]
+    },
+    {
+      "id": 8,
+      "image": "https://www.holidify.com/images/cmsuploads/compressed/pokhara-1699787_1280_20180629193006.jpg",
+      "location": "Pokhara, Nepal",
+      "description": "Explore the serene landscapes and lakes of Pokhara.",
+      "price": 44000,
+      "includes": ["Hotel Stay", "Meals", "Local Tours"],
+      "services": ["Paragliding", "Boating on Phewa Lake", "Mountain Views"]
+    },
+    {
+      "id": 9,
+      "image": "https://www.deshghuri.com/wp-content/uploads/2014/10/ham-ham-waterfall-srimangal-sreemangal.jpg",
+      "location": "Srimangal, Bangladesh",
+      "description": "Relax in the tea gardens and tranquil beauty of Srimangal.",
+      "price": 18000,
+      "includes": ["Hotel Stay", "Meals", "Transport"],
+      "services": ["Tea Garden Visits", "Lawachara Forest Tour", "Local Guide"]
+    },
+    {
+      "id": 10,
+      "image": "https://amazingholidays.co.za/wp-content/uploads/2021/05/aerial-view-james-bond-island-phang-nga-thailand-freepik.jpg",
+      "location": "Phuket, Thailand",
+      "description": "Experience the vibrant beaches and nightlife of Phuket.",
+      "price": 132000,
+      "includes": ["Hotel Stay", "Airport Transfers", "Meals"],
+      "services": ["Island Hopping Tours", "Snorkeling", "Beach Activities"]
+    },
+    {
+      "id": 11,
+      "image": "https://media.architecturaldigest.com/photos/5da74823d599ec0008227ea8/16:9/w_2560%2Cc_limit/GettyImages-946087016.jpg",
+      "location": "New York City, USA",
+      "description": "Explore the iconic landmarks of NYC, from Times Square to Central Park.",
+      "price": 200000,
+      "includes": ["Hotel Stay", "Meals", "City Tours"],
+      "services": ["Broadway Show", "Statue of Liberty Tickets", "Shopping Tour"]
+    },
+    {
+      "id": 12,
+      "image": "https://www.advantour.com/img/japan/images/kyoto.jpg",
+      "location": "Kyoto, Japan",
+      "description": "Immerse yourself in Japan's culture with traditional temples and gardens.",
+      "price": 150000,
+      "includes": ["Hotel Stay", "Meals", "Sightseeing"],
+      "services": ["Tea Ceremony", "Temple Visits", "Kimono Experience"]
+    },
+    {
+      "id": 13,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ8ehY_BUZqwkh_6bCn9oERn--ngur-eKcLA&s",
+      "location": "Rome, Italy",
+      "description": "Walk through history with guided tours of the Colosseum and Roman Forum.",
+      "price": 190000,
+      "includes": ["Hotel Stay", "Meals", "Guided Tours"],
+      "services": ["Vatican Museum Tickets", "Local Food Tour", "Guided Walking Tours"]
+    }
+  ]
+  
