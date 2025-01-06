@@ -37,22 +37,22 @@ Here are the screenshots for different routes of the application:
 ![Home Page](./src/assets/homepage.png)
 
 ### Login Page
-![Login Page](./travel-project/src/assets/register.png)
+![Login Page](./src/assets/register.png)
 
 ### Register Page
-![Register Page](./travel-project/src/assets/login.png)
+![Register Page](./src/assets/login.png)
 
 ### All tour Package
-![ALL tour Pakage Page](./travel-project/src/assets/allpakage.png)
+![ALL tour Pakage Page](./src/assets/allpakage.png)
 
 ### All tour Package Details Page
-![All tour Package Details Page](./travel-project/src/assets/details.png)
+![All tour Package Details Page](./src/assets/details.png)
 
 ### Umrah Pakage
-![Umrah Pakage](./travel-project/src/assets/umrah.png)
+![Umrah Pakage](./src/assets/umrah.png)
 
 ### Umrah Package Details Page
-![Umrah Package Details Page](./travel-project/src/assets/detailsofumrah.png)
+![Umrah Package Details Page](./src/assets/detailsofumrah.png)
 
 
 ## Live Link
